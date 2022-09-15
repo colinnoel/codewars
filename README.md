@@ -1,5 +1,3 @@
-# codewars
-
 <h1>My codewars solutions</h1>
 
 <h3>Intention:</h3>
